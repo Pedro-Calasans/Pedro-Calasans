@@ -2,7 +2,7 @@
 
 - 🔭 Estou estudando A.D.S no IFSP campus de Bragança Paulista. 
 - 🌱 Focando em aprender mais de Front-end.
-- 📫 E-mail de contato:pedro.calasans@aluno.ifsp.edu.br
+- 📫 E-mail de contato: pedro.calasans@aluno.ifsp.edu.br
 - 😄 Adoro Yu-gi-oh. 
 
 <div align="center">
